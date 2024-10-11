@@ -10,33 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Master's Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Turku, Finland
+- name: ETH Zurich, Switzerland
   url: "https://www.utu.fi/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: <>
 
 interests:
-- Gut microbiome
-- Bioinformatics
-- Multi-omics analysis
+- Energy Technology
+- Environment
+- Economics
 - Data analysis
 - Reproducible research
 - Causal inference
 
 education:
   courses:
-  - course: D.Sc in Life Science and Techology
-    institution: Tokyo Institute of Technology
-    year: 2017-2020
-  - course: M.Sc in Biological Information
+  - #course: D.Sc in Life Science and Techology
+    #institution: Tokyo Institute of Technology
+    #year: 2017-2020
+  - course: M.Sc in Management, Technology and Economics
     institution: Tokyo Institute of Technology
     year: 2015-2017
-  - course: B.Sc in Biology
+  - course: B.A.Sc in Material Engineering & Business minor
     institution: Institut Teknologi Bandung (Bandung Institute of Technology)
     year: 2010-2014
 
