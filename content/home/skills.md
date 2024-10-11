@@ -24,7 +24,7 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Mathematical Modellin & Machine Learning"
+  description = "Mathematical Modeling & Machine Learning"
   
 [[feature]]
   icon = "camera-retro"
