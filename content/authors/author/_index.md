@@ -21,7 +21,7 @@ organizations:
 bio: <>
 
 interests:
-- Energy Technology
+- Energy Technologies
 - Environment
 - Economics
 - Data analysis
