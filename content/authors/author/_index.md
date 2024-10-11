@@ -15,7 +15,9 @@ role: Master's Student
 # Organizations/Affiliations
 organizations:
 - name: ETH Zurich, Switzerland
+- name: Energy and Technology Policy Group
   url: "https://www.utu.fi/en"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: <>
