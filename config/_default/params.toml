@@ -90,11 +90,11 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Ookayama 2-12-1 M6-3", city = "Meguro", region = "Tokyo", postcode = "152-8550", country = "Japan", country_code = "JP"}
+address = {street = "CLD-C-10", city = "Clausiusstrasse 37", region = "Zurich", postcode = "8006", country = "Switzerland", country_code = "CH"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "35.608233", longitude = "139.679424"}
+coordinates = {latitude = "47.3786331548168", longitude = "8.545869218963002"}
 
 # Directions for visitors to locate you.
 directions = "Midorigaoka 6th Building, Second Floor"
