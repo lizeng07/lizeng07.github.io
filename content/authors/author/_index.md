@@ -27,9 +27,7 @@ interests:
 - Energy Technologies
 - Environment
 - Economics
-- Data analysis
-- Reproducible research
-- Causal inference
+
 
 education:
   courses:
@@ -37,10 +35,10 @@ education:
 #    institution: Tokyo Institute of Technology
 #    year: 2017-2020
   - course: M.Sc in Management, Technology and Economics
-    institution: Swiss Federal Institue of Technology
+    institution: ETH Zurich
     year: 2021-2024
   - course: B.A.Sc in Material Engineering & Business minor
-    institution: Institut Teknologi Bandung (Bandung Institute of Technology)
+    institution: The University of British Columbia
     year: 2018-2021
 
 # Social/Academic Networking
@@ -73,7 +71,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "lizeng@ethz.ch"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
