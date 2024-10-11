@@ -23,7 +23,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: <>
 
-interests:
+research interests:
 - Clean Energy Technology
 - Power-to-X Value Chain
 - Techno-Economic Analysis
