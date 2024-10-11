@@ -18,7 +18,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Statistical Analysis & Inference"
+  description = "Statistical Analysis & Causal Inference"
 
 [[feature]]
   icon = "python"
