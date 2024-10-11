@@ -85,7 +85,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "lizeng@ethz.ch / lizeng9707@gmail.com"
+email = "lizeng@ethz.ch"
 phone = "(+41) 76 510 86 13"
 
 # Address
@@ -101,7 +101,7 @@ coordinates = {latitude = "47.3786331548168", longitude = "8.545869218963002"}
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-#office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+office_hours = ["Monday to Friday 9:00 to 21:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
