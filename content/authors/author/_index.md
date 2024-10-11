@@ -32,9 +32,9 @@ interests:
 
 education:
   courses:
-  - #course: D.Sc in Life Science and Techology
-    #institution: Tokyo Institute of Technology
-    #year: 2017-2020
+#  - course: D.Sc in Life Science and Techology
+#    institution: Tokyo Institute of Technology
+#    year: 2017-2020
   - course: M.Sc in Management, Technology and Economics
     institution: Tokyo Institute of Technology
     year: 2015-2017
