@@ -80,8 +80,10 @@ email: "lizeng@ethz.ch"
 #- Researchers
 #- Visitors
 ---
-I am a Master's Student at ETH Zurich where I worked with group of [Energy and Technology Policy Group](https://epg.ethz.ch/) and [Climate Finance and Policy Group](http://cfp.ethz.ch). In this group, I take part in multiple research projects regarding to clean energy technologies and their economics.
+I am a Master's Student at ETH Zurich where I worked with groups of [Energy and Technology Policy Group](https://epg.ethz.ch/) and [Climate Finance and Policy Group](http://cfp.ethz.ch). In both groups, I did my master's thesis and several research projects related to sustainable technologies, economics and policy.
 
-Originally my initial training was in materials engineering, where I have worked on the experimental research of energy and electronic materials. My current research turns into the analysis of the relationship between technologies (Energy & Carbon Removal) and societies (Economic & Policy). I use Python and R scripting for my projects, but I will also go visiting facilities and conduct interview with experts to gain the most frontier insights to shape my research. 
+Originally my initial training was in materials engineering, where I have worked on the experimental research of energy and electronic materials. Then I spent 9 months private equity funds. I started to think one question: How can technologies benefit the society?
+
+Then my current research turns into the analysis of the relationship between Technologies (Energy & Carbon Removal) and Societies (Economics & Policy). I use Python and R scripting for my projects, but I will also go visiting facilities and conduct interviews with experts to gain the most frontier insights to shape my research. 
 
 Aside from research, I like to spend my spare time doing some sports and taking pictures, which you can find on this website.
