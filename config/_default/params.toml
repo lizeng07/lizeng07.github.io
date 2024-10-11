@@ -85,12 +85,12 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "lizeng@ethz.ch"
-phone = "(+41) 76 510 86 13"
+# email = "lizeng@ethz.ch"
+# phone = "(+41) 76 510 86 13"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "CLD-C-10, Clausiusstrasse 37", city = "Zurich", region = "Switzerland", postcode = "8006", country = "Switzerland", country_code = "CH"}
+address = {street = "CLD-C-10, Clausiusstrasse 37", city = "Zurich 8006", region = "Switzerland", postcode = "", country = "Switzerland", country_code = "CH"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
