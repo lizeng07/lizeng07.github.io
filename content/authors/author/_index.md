@@ -14,9 +14,10 @@ role: Master's Student
 
 # Organizations/Affiliations
 organizations:
-- name: ETH Zurich, Switzerland
+- name: Swiss Federal Institute of Technology (ETH Zurich), Switzerland
+  url: "https://ethz.ch/en.html"
 - name: Energy and Technology Policy Group
-  url: "https://www.utu.fi/en"
+  url: "https://epg.ethz.ch/people/master-students/li-zeng.html"
 
 
 # Short bio (displayed in user profile at end of posts)
