@@ -19,7 +19,13 @@ subtitle = ""
   icon_pack = "fab"
   name = "R"
   description = "90%"
-  
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fas"
+  name = "Python"
+  description = "10%"
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
