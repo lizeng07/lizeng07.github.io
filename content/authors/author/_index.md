@@ -84,4 +84,4 @@ I am a Master's Student at ETH Zurich where I worked with group of [Energy and T
 
 Originally my initial training was in materials engineering, where I have worked on the experimental research of energy and electronic materials. My current research turns into the analysis of the relationship between technologies (Energy & Carbon Removal) and societies (Economic & Policy). I use Python and R scripting for my projects, but I will also go visiting facilities and conduct interview with experts to gain the most frontier insights to shape my research. 
 
-Aside from research, I like to spend my spare time doing some sports and taking pictures, which you can find on my website. 
+Aside from research, I like to spend my spare time doing some sports and taking pictures, which you can find on this website. 
