@@ -85,8 +85,8 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-#email = ""
-#phone = ""
+email = "lizeng@ethz.ch / lizeng9707@gmail.com"
+phone = "(+41) 76 510 86 13"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -97,7 +97,7 @@ address = {street = "CLD-C-10", city = "Clausiusstrasse 37", region = "Zurich", 
 coordinates = {latitude = "47.3786331548168", longitude = "8.545869218963002"}
 
 # Directions for visitors to locate you.
-directions = "Midorigaoka 6th Building, Second Floor"
+# directions = "Midorigaoka 6th Building, Second Floor"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
