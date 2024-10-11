@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:erawijantari.p.aa@m.titech.ac.jp  # For a direct email link, use "mailto:erawijantari.p.aa@m.titech.ac.jp".
+  link: lizeng@ethz.ch  # For a direct email link, use "mailto:erawijantari.p.aa@m.titech.ac.jp".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/erawijantaript
@@ -60,7 +60,7 @@ social:
 #  link: https://github.com/erawijantari
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/erawijantari-pande-putu/
+  link: https://www.linkedin.com/in/lizeng07/
 #- icon: orcid
 #  icon_pack: fab
 #  link: https://orcid.org/0000-0002-5173-6347
