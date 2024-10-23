@@ -24,8 +24,8 @@ organizations:
 bio: <>
 
 interests:
-- Clean Energy Technology
-- Power-to-X Value Chain
+- Clean Energy Technologies
+- Circular Economy
 - Techno-Economic Analysis
 - Life-Cycle Assessment
 
