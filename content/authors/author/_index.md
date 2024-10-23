@@ -24,8 +24,8 @@ organizations:
 bio: <>
 
 interests:
-- Clean Technologies, Economics and Policy
-- Energy, Resources and Carbon-dioxide
+- Sustainable Technologies, Economics and Policy
+- Energy, Resources and $\text{CO}_2$
 - Techno-Economic Analysis
 - Life-Cycle Assessment
 
