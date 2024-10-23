@@ -5,7 +5,7 @@
     <link>https://lizeng07.github.io/</link>
       <atom:link href="https://lizeng07.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Welcome to Li Zeng&#39;s Website</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lizeng07.github.io/img/icon-192.png</url>
       <title>Welcome to Li Zeng&#39;s Website</title>
@@ -13,11 +13,31 @@
     </image>
     
     <item>
-      <title>Example Project</title>
-      <link>https://lizeng07.github.io/project/deep_learning_project/</link>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://lizeng07.github.io/project/deep_learning_project/</guid>
-      <description>&lt;p&gt;This is a brief description of the project, which only includes basic information.&lt;/p&gt;
+      <title>Li-Oxygen Battery Project</title>
+      <link>https://lizeng07.github.io/project/lio2_project/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://lizeng07.github.io/project/lio2_project/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Improving the lifetime of batteries is one of the most challenging problems. One way to pursue good cycling performance for lithium-oxygen (Li2O2) batteries is to achieve low charge overpotentials. Here, ordered mesoporous carbon materials (CMK-8) are rationally designed as an oxygen cathode for Li-O2 batteries to reduce the charge overpotential and lengthen the cycle life. Due to the ordered mesoporous features, CMK-8 not only provides abundant channels for the transportation of Li+ and O2 by capillary force but also acts as a block to prevent lithium superoxide (LiO2) from diffusing during the oxygen reduction reaction (ORR) process due to its unique cubic Ia3d structure. Therefore, amorphous lithium peroxide (Li2O2) can form in the pore interiors of CMK-8. Such designed catalysts enable excellent electrochemical performance due to improved conductivity in amorphous Li2O2 and the good Li2O2/CMK-8 contact interface. Finally, at a current density of 0.1 A g^-1, the CMK-8 electrode delivers a low charge overpotential of 0.43 V without any obvious degradation even after 45 cycles with a limited capacity of 500 mAh g^-1.&lt;/p&gt;
+&lt;h3 id=&#34;project-images&#34;&gt;Project Images&lt;/h3&gt;
+&lt;p&gt;Here are some images related to the project:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Example Image 1&lt;/strong&gt;:
+&lt;img alt=&#34;CMK8 Image1&#34; src=&#34;../../static/img/CMK8_Image2.png&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Example Image 2&lt;/strong&gt;:
+&lt;img alt=&#34;CMK8 Image2&#34; src=&#34;../../static/img/CMK8_Image3.png&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;project-downloads&#34;&gt;Project Downloads&lt;/h3&gt;
+&lt;p&gt;You can download the related PDF file here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../static/files/LiO2.pdf&#34;&gt;Download Project Report&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;more-information&#34;&gt;More Information&lt;/h3&gt;
+&lt;p&gt;Feel free to check out more details of the project by exploring the documents and images provided above.&lt;/p&gt;
 </description>
     </item>
     
