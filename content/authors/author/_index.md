@@ -25,7 +25,7 @@ bio: <>
 
 interests:
 - Sustainable Technologies, Economics and Policy
-- Energy, Resources and $\text{CO}_2$
+- Energy, Resources and Carbon
 - Techno-Economic Analysis
 - Life-Cycle Assessment
 
@@ -82,7 +82,10 @@ email: "lizeng@ethz.ch"
 ---
 I am a Master's Student at ETH Zurich where I worked with groups of [Energy and Technology Policy Group](https://epg.ethz.ch/) and [Climate Finance and Policy Group](http://cfp.ethz.ch). In both groups, I did my master's thesis and several research projects related to sustainable technologies, economics and policy.
 
-Originally my initial training was in materials engineering, where I had worked on the experimental research of energy and electronic materials. Then I had over one year of experience in equity and project financing, in the sector of energy and resources. I started to think one question: how can technologies benefit the society?
+Originally, my background was in materials engineering, where I conducted experimental research of energy and electronic materials. After that, I gained over a year of experience in equity and project financing in the energy and resources sector. These experiences led me to reflect on two important questions:  
+
+(1)How can technologies benefit society?  
+(2)How can I contribute to this?
 
 Then my current research turns into the analysis of the relationship between Technologies (Energy & Carbon Removal) and Societies (Economics & Policy). I use Python and R scripting for my projects, but I will also go visiting facilities and conduct interviews with experts to gain the most frontier insights to shape my research. 
 
