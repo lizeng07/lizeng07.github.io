@@ -2,7 +2,7 @@
 title = "Li-Oxygen Battery Project"
 date = 2019-09-01
 tags = ["Materials Engineering"]
-summary = "Designed and conducted chemical experiments on next generation batteries"
+summary = "Designed and conducted chemical experiments on next the generation battery"
 draft = false
 url = "/project/lio2_project/"
 +++
