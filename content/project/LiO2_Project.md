@@ -20,7 +20,7 @@ Here are some key images related to the project:
 - **Cycling Performance Comparison**:
   ![CMK8 Image2](/img/CMK8_Image3.png)
 
-### Project Downloads
+### Report Downloads
 You can download the related PDF file here:
 
 - [Download Project Report](/files/LiO2.pdf)
