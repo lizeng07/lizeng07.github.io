@@ -25,9 +25,9 @@ subtitle = ""
      name = "All"
      tag = "*"
   
-   #[[content.filter_button]]
-     #name = "Deep Learning"
-     #tag = "Deep Learning"
+   [[content.filter_button]]
+     name = "Materials Engineering"
+     tag = "Materials Engineering"
   
    [[content.filter_button]]
      name = "Other"

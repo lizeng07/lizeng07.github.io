@@ -4,6 +4,7 @@ date = 2019-09-01
 tags = ["Materials Engineering"]
 summary = "This project designs ordered mesoporous carbon materials (CMK-8) as oxygen cathodes for lithium-oxygen batteries to achieve low charge overpotentials and improved cycle life by enhancing Li+ and O2 transport and controlling Li2O2 formation."
 draft = false
+url = "/project/lio2_project/"
 +++
 
 ## Abstract
