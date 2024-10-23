@@ -15,15 +15,15 @@ Improving the lifetime of batteries is one of the most challenging problems. One
 Here are some images related to the project:
 
 - **Materials Characterization of CMK-8**:
-  ![CMK8 Image1](/static/img/CMK8_Image2.png)
+  ![CMK8 Image1](/img/CMK8_Image2.png)
 
 - **Cycling Performance Comparison**:
-  ![CMK8 Image2](/static/img/CMK8_Image3.png)
+  ![CMK8 Image2](/img/CMK8_Image3.png)
 
 ### Project Downloads
 You can download the related PDF file here:
 
-- [Download Project Report](/static/files/LiO2.pdf)
+- [Download Project Report](/files/LiO2.pdf)
 
 ### More Information
 Feel free to get in touch to have further discussion.
