@@ -12,13 +12,16 @@ Improving the lifetime of batteries is one of the most challenging problems in e
 
 
 ### Key Images
-Here are some key images related to the project:
+Here are some interesting images related to the project:
 
 - **Materials Characterization of CMK-8**:
   ![CMK8 Image1](/img/CMK8_Image2.png)
+  (a)The discharge-charge profile of $\text{Li-} \text{O}_2$ batteries with CMK-8 cathode; (b)-(f) TEM images of the CMK-8 cathode taken at each typical point in (a)
 
-- **Cycling Performance Comparison**:
+- **Batteries Performance Comparison: CMK-8 vs. EC-300J**:
   ![CMK8 Image2](/img/CMK8_Image3.png)
+  (a) & (b) The cycling performance
+  (c) & (d) The Nyquist plot
 
 ### Report Downloads
 You can download the related PDF file here:
