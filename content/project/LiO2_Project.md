@@ -25,4 +25,4 @@ You can download the related PDF file here:
 - [Download Project Report](../../static/files/LiO2.pdf)
 
 ### More Information
-Feel free to check out more details of the project by exploring the documents and images provided above.
+Feel free to get in touch to have further discussion.
